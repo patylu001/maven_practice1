@@ -1,7 +1,7 @@
 package com.mayab.calidad;
 
 /**
- * Hello world!
+ * Hello world from Merida!
  *
  */
 public class App 
